@@ -4,7 +4,7 @@ AR6 WG1 Chapter 3 Figure 3.27 Global Sea Surface Salinity Trends
 Figure number: Figure 3.27
 From the IPCC Working Group I Contribution to the Sixth Assessment Report: Chapter 3
 
-![Figure 3.27:  Global Sea Surface Salinity Trends](../images/ar6_wg1_chap3_fig3_27_GlobalSeaSurfaceSalinityTrends.png?raw=true)
+![Figure 3.27:  Global Sea Surface Salinity Trends](ar6_wg1_chap3_fig3_27_GlobalSeaSurfaceSalinityTrends.png?raw=true)
 
 
 Description:
@@ -44,18 +44,18 @@ Publication sources:
 
 ESMValTool Branch:
 ------------------
-- ESMValTool-AR6-OriginalCode-FinalFigures: [ar6_chap_3_ocean_figures](https://github.com/ESMValGroup/ESMValTool-AR6-OriginalCode-FinalFigures/tree/ar6_chap_3_ocean_figures)
+- ESMValTool-AR6-OriginalCode-FinalFigures: [ar6_chap_3_ocean_figures](https://github.com/ipcc-wgi/ESMValTool-AR6-OriginalCode-FinalFigures/tree/ar6_chap_3_ocean_figures)
 
 
 ESMValCore Branch:
 ------------------
-- ESMValCore-AR6-OriginalCode-FinalFigures: [optimize_mem_annual_statistic_plus_amoc](https://github.com/ESMValGroup/ESMValCore-AR6-OriginalCode-FinalFigures/tree/optimize_mem_annual_statistic_plus_amoc)
+- ESMValCore-AR6-OriginalCode-FinalFigures: [optimize_mem_annual_statistic_plus_amoc](https://github.com/ipcc-wgi/ESMValCore-AR6-OriginalCode-FinalFigures/tree/optimize_mem_annual_statistic_plus_amoc)
 
 
 Recipe & diagnostics:
 ---------------------
 Recipe used:
-- [recipes/recipe_ocean_heat_content_TSV_all.yml](https://github.com/ESMValGroup/ESMValTool-AR6-OriginalCode-FinalFigures/blob/ar6_chap_3_ocean_figures/esmvaltool/recipes/recipe_ocean_heat_content_TSV_all.yml)
+- [recipes/recipe_ocean_heat_content_TSV_all.yml](https://github.com/ipcc-wgi/ESMValTool-AR6-OriginalCode-FinalFigures/blob/ar6_chap_3_ocean_figures/esmvaltool/recipes/recipe_ocean_heat_content_TSV_all.yml)
 
 Diagnostic used:
 - [ocean/diagnostic_chap3_ocean_heat_content.py
@@ -150,8 +150,8 @@ via the invite-only google drive page: https://drive.google.com/drive/folders/1V
 Software description:
 ---------------------
 
-- ESMValTool environment file: [IPCC_environments/development_ar6_chap_3_ocean_environment.yml](https://github.com/ESMValGroup/ESMValTool-AR6-OriginalCode-FinalFigures/blob/main/IPCC_environments/development_ar6_chap_3_ocean_environment.yml)
-- pip file: [IPCC_environments/development_ar6_chap_3_ocean_pip_environment.txt](https://github.com/ESMValGroup/ESMValTool-AR6-OriginalCode-FinalFigures/blob/main/IPCC_environments/development_ar6_chap_3_ocean_pip_environment.txt)
+- ESMValTool environment file: [IPCC_environments/development_ar6_chap_3_ocean_environment.yml](https://github.com/ipcc-wgi/ESMValTool-AR6-OriginalCode-FinalFigures/blob/main/IPCC_environments/development_ar6_chap_3_ocean_environment.yml)
+- pip file: [IPCC_environments/development_ar6_chap_3_ocean_pip_environment.txt](https://github.com/ipcc-wgi/ESMValTool-AR6-OriginalCode-FinalFigures/blob/main/IPCC_environments/development_ar6_chap_3_ocean_pip_environment.txt)
 
 
 
